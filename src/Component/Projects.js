@@ -23,10 +23,10 @@ export const Projects = () => {
       link:"https://a3s0h.github.io/shoe_com/shoe_com/index.html",
     },
     {
-       title: "Weather App",
+       title: "Chat App",
        description : "Web Dev",
        imgUrl: projImg2,
-       link:"https://a3s0h.github.io/shoe_com/shoe_com/index.html",
+       link:"https://github.com/a3s0h/chatApp",
     },
     {
       title: "Weather App",
